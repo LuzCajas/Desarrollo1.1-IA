@@ -3,9 +3,13 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 
+venv/
+.venv/
 backend/.venv/
 
 chat_roles.db
 *.sqlite3
 
 .env
+
+*:Zone.Identifier
