@@ -1,0 +1,21 @@
+{
+  "name": "inteligency-chat-main",
+  "version": "1.0.0",
+  "description": "An extensible chat application where the user selects a role before asking a question, and the system adapts the LLM prompt to respond with the expected tone, depth, and perspective.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuzCajas/Desarrollo1.1-IA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LuzCajas/Desarrollo1.1-IA/issues"
+  },
+  "homepage": "https://github.com/LuzCajas/Desarrollo1.1-IA#readme"
+}
